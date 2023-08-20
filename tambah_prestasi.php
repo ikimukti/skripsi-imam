@@ -30,8 +30,9 @@ if ($conn->connect_error) {
         <li><a href="tambah_prestasi.php">Form Data Prestasi</a></li>
         <li><a href="tambah_master_pelanggaran.php">Form Data Master Pelanggaran</a></li>
         <li><a href="tambah_master_prestasi.php">Form Data Master Prestasi</a></li>
-        <li><a href="tambah_penanganan_pelanggaran.php">Form Data Master Penanganan Pelanggaran</a></li>
-        <li><a href="perhitungan.php">Perhitungan Naive Bayes</a></li>
+        <li><a href="tambah_master_penanganan_pelanggaran.php">Form Data Master Penanganan Pelanggaran</a></li>
+        <li><a href="perhitungan.php">Perhitungan Persemester</a></li>
+        <li><a href="naive_bayes.php">Perhitungan Naive Bayes</a></li>
     </ul>
     <h2>Form Tambah Prestasi</h2>
 
